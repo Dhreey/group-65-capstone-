@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+    <head>
+        <title>Fylo</title>
+        <link rel="stylesheet" href="fylo.css"/>
+    </head>
+    <body>
+       
+        <img src="icon/047-stack.png" width="20px"/>  <strong>Fylo</strong>
+        <ul>
+            <li><a href="%">Features</a></li>
+            <li><a href="%">Team</a></li>
+            <li><a href="%">Sign In</a></li>
+        </ul>
+        
+        <img  id="image1" src="images/illustration-intro.png"  width="600" height="400"/>
+        <h1 style="text-align:left">All your files in one secure location, accessible anywhere.</h1>
+        <p id="p1">Fylo stores all your most important files in one secure location. Access them wherever you need, share and collaborate with friends family, and co-workers</p>
+        <button id="p2"><strong>Get Started</strong></button>
+        <table id="table1">
+            <tr id="tr1">
+                <td><img src="images/icon-access-anywhere.svg"></td>
+                <td><img src="images/icon-security.svg"></td>
+            </tr>
+            <tr id="t1">
+                <td>Access your files, anywhere</td>
+                <td>Security you can trust</td>
+            </tr>
+            <tr id="t2">
+                <td>The ability to use a smartphone, tablet, or computer to access your account means your files follow you everywhere.</td>
+                <td>2-factor authentication and user-controlled encryption are just a couple of the security features we allow to help secure your files.</td>
+            </tr>
+                
+        </table>
+        <table id="table2">
+            <tr id="tr2">
+                <td><img src="images/icon-collaboration.svg"></td>
+                <td><img src="images/icon-any-file.svg"></td>
+            </tr>
+            <tr id="t3">
+                <td>Real-time collaboration</td>
+                <td>Store any type of file</td>
+            </tr>
+            <tr id="t4">
+                <td>Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.</td>
+                <td>Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all file types to be securely stored and shared.</td>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <img id="image2" src="images/illustration-stay-productive.png" align="left">
+        <br> <br> <br> <br>
+        <div id="div1">
+            <p id="p1">Stay productive, wherever you are</p>
+            <p>Never let location be an issue when accessing your files. Fylo has you covered for all of your file storage needs. </p>
+            <p>Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required.</p>
+            <a href="#">See how Fylo works<img src="images/icon-arrow.svg"></a> 
+        </div>   
+        <br> <br> <br> <br>
+        <img id="image3" src="images/bg-quotes.png">
+        <div id="div2">
+            <p>Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.</p>
+
+        </div>
+        
